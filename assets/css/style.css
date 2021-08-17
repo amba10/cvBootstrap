@@ -4,17 +4,17 @@
 	box-sizing: border-box;
 	}   
 
-.jumbotron {
+/*.jumbotron {
 	height: 100px !important;
-}
+}*/
 
 
 
-@include media-breakpoint-down(lg) {
+/*@include media-breakpoint-down(lg) {
 	.lebar {
 		max-width: 500px;
 	}
-}
+}*/
 
 .icon, .social {
 	font-size: 20px;/*
